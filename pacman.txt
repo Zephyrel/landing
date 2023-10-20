@@ -8,6 +8,7 @@ bzip2
 ca-certificates
 coreutils
 curl
+cygrunsrv
 dash
 db
 file
@@ -79,6 +80,7 @@ libxml2
 libxslt
 libyaml
 libzstd
+make
 man-db
 mingw-w64-ucrt-x86_64-SDL2
 mingw-w64-ucrt-x86_64-SDL2_gfx
@@ -100,7 +102,11 @@ mingw-w64-ucrt-x86_64-bzip2
 mingw-w64-ucrt-x86_64-c-ares
 mingw-w64-ucrt-x86_64-ca-certificates
 mingw-w64-ucrt-x86_64-cairo
+mingw-w64-ucrt-x86_64-cglm
+mingw-w64-ucrt-x86_64-cglm-docs
 mingw-w64-ucrt-x86_64-cmake
+mingw-w64-ucrt-x86_64-cmake-docs
+mingw-w64-ucrt-x86_64-cmake-gui
 mingw-w64-ucrt-x86_64-crt-git
 mingw-w64-ucrt-x86_64-curl
 mingw-w64-ucrt-x86_64-cyrus-sasl
@@ -111,12 +117,14 @@ mingw-w64-ucrt-x86_64-directxmath
 mingw-w64-ucrt-x86_64-directxtex
 mingw-w64-ucrt-x86_64-dosbox
 mingw-w64-ucrt-x86_64-double-conversion
+mingw-w64-ucrt-x86_64-editrights
 mingw-w64-ucrt-x86_64-expat
 mingw-w64-ucrt-x86_64-faad2
 mingw-w64-ucrt-x86_64-ffmpeg
 mingw-w64-ucrt-x86_64-flac
 mingw-w64-ucrt-x86_64-fluidsynth
 mingw-w64-ucrt-x86_64-fontconfig
+mingw-w64-ucrt-x86_64-freeglut
 mingw-w64-ucrt-x86_64-freetype
 mingw-w64-ucrt-x86_64-frei0r-plugins
 mingw-w64-ucrt-x86_64-fribidi
@@ -419,6 +427,7 @@ msys2-w32api-runtime
 nano
 ncurses
 nettle
+nnn
 openssh
 openssl
 p11-kit

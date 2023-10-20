@@ -58,3 +58,7 @@ vlc.install 3.0.19
 vscode 1.83.1
 vscode.install 1.83.1
 58 packages installed.
+
+Did you know Pro / Business automatically syncs with Programs and
+ Features? Learn more about Package Synchronizer at
+ https://chocolatey.org/compare
